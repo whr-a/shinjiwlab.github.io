@@ -34,31 +34,30 @@
 
 - name: IEEE International Conference on Acoustics, Speech and Signal Processing
   acronym: ICASSP
-  year: 2027
+  year: 2028
   ccfddl: CG/icassp
-  deadline: 2026-09-16 23:59
-  start: 2027-05-16
-  end: 2027-05-21
-  place: "Toronto, Canada"
-  url: https://2027.ieeeicassp.org/
+  start: 2028-05-28
+  end: 2028-06-02
+  place: "Tokyo, Japan"
+  url: https://2028.ieeeicassp.org/
+  note: "Next deadline TBD on ccfddl — verify on the official site."
 
 - name: Conference of the International Speech Communication Association
   acronym: Interspeech
-  year: 2026
+  year: 2027
   ccfddl: CG/interspeech
-  abstract_deadline: 2026-02-12 23:59
-  deadline: 2026-02-19 23:59
+  deadline: 2027-02-09 23:59
   utc_offset: 0
-  start: 2026-09-27
-  end: 2026-10-01
-  place: "Sydney, Australia"
-  url: https://interspeech2026.org/
+  start: 2027-08-29
+  end: 2027-09-02
+  place: "São Paulo, Brazil"
+  url: https://interspeech2027.org/
 
 - name: IEEE Spoken Language Technology Workshop
   acronym: SLT
   year: 2026
   ccfddl: CG/slt
-  deadline: 2026-06-17 23:59
+  deadline: 2026-06-24 23:59
   start: 2026-12-13
   end: 2026-12-16
   place: "Palermo, Sicily, Italy"
@@ -102,21 +101,21 @@
   deadline: 2026-01-29 11:59
   utc_offset: 0
   start: 2026-07-06
-  end: 2026-07-12
+  end: 2026-07-11
   place: "Seoul, Korea"
   url: https://icml.cc/Conferences/2026
   note: "Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0"
 
 - name: International Conference on Learning Representations
   acronym: ICLR
-  year: 2026
+  year: 2027
   ccfddl: AI/iclr
-  abstract_deadline: 2025-09-19 23:59
-  deadline: 2025-09-24 23:59
-  start: 2026-05-01
-  end: 2026-05-05
-  place: "Brazil"
-  url: https://iclr.cc/Conferences/2026
+  abstract_deadline: 2026-09-18 23:59
+  deadline: 2026-09-25 23:59
+  start: 2027-04-26
+  end: 2027-04-30
+  place: "San Francisco, CA, USA"
+  url: https://iclr.cc/Conferences/2027
 
 - name: Conference on Neural Information Processing Systems
   acronym: NeurIPS
@@ -127,15 +126,16 @@
   utc_offset: 0
   start: 2026-12-06
   end: 2026-12-06
-  place: "Sydney, Australia"
+  place: "Sydney, Australia; Atlanta, USA; Paris, France"
   url: https://neurips.cc/Conferences/2026
+  note: "Unrecognized ccfddl date 'December 6-12 (Sydney), December 9-13 (Atlanta and Paris), 2026' — verify on the official site."
 
 - name: AAAI Conference on Artificial Intelligence
   acronym: AAAI
   year: 2027
   ccfddl: AI/aaai
-  abstract_deadline: 2026-07-20 23:59
-  deadline: 2026-07-27 23:59
+  abstract_deadline: 2026-07-21 23:59
+  deadline: 2026-07-28 23:59
   start: 2027-02-16
   end: 2027-02-23
   place: "Montréal, Québec, Canada"
@@ -150,7 +150,7 @@
   start: 2026-10-06
   end: 2026-10-09
   place: "Hilton Union Square, San Francisco, USA"
-  url: https://colmweb.org
+  url: https://colm.cc/Conferences/2026/CallForPapers
 
 - name: IEEE International Workshop on Machine Learning for Signal Processing
   acronym: MLSP
@@ -237,14 +237,14 @@
 
 - name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   acronym: CVPR
-  year: 2026
+  year: 2027
   ccfddl: AI/cvpr
-  abstract_deadline: 2025-11-06 23:59
-  deadline: 2025-11-13 23:59
-  start: 2026-06-03
-  end: 2026-06-07
-  place: "Denver, Colorado, United States"
-  url: https://cvpr.thecvf.com/Conferences/2026
+  abstract_deadline: 2026-11-10 23:59
+  deadline: 2026-11-16 23:59
+  start: 2027-06-20
+  end: 2027-06-25
+  place: "Seattle, WA, United States"
+  url: https://cvpr.thecvf.com/Conferences/2027
 
 - name: ACM International Conference on Multimodal Interaction
   acronym: ICMI
